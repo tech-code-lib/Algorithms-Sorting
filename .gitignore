@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/InsertionSort/obj
+/InsertionSort/bin/Debug/netcoreapp3.1
+/MergeSort/obj
+/MergeSort/bin/Debug/netcoreapp3.1
+/QuickSort/obj
+/QuickSort/bin/Debug/netcoreapp3.1
