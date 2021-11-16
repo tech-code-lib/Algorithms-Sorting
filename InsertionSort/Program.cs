@@ -16,7 +16,6 @@ namespace InsertionSort
                     arr[ri + 1] = arr[ri];
                     ri--;
                 }
-
                 arr[ri + 1] = key;
             }
         }
